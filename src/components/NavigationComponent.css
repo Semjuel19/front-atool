@@ -1,0 +1,19 @@
+.NavLink {
+    text-decoration: none !important;
+    color: #9d9d9d;
+    margin-left: 5vh;
+}
+
+.NavLink:hover{
+    color: #FFFFFF;
+}
+
+.NavBarBackground {
+    background: #222222;
+    height: 55px;
+    top: 0 !important;
+}
+
+.ContentCovered {
+    padding-top: 100px;
+}

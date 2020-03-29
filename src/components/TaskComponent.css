@@ -1,0 +1,24 @@
+.TaskComponent {
+    height: 50px;
+    line-height: 45px;
+    border-bottom: 1px solid #222222;
+}
+
+
+.TaskBackground {
+    background: #ededed;
+}
+
+@media (max-width: 995px) {
+
+    .TaskComponent {
+        height: 80px;
+        line-height: 40px;
+        border-bottom: 1px solid #222222;
+    }
+
+}
+
+.bold {
+    font-weight: bold;
+}
